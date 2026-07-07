@@ -3,7 +3,7 @@
 ## 2026-07-07
 
 - **Update**: `wiki/cs/engineer_info_processing/`의 정보처리기사 실기 OCR 추출 Markdown 69개를 대상으로 한글 조각 공백, 반복 OCR 오독, 문장부호를 1차 교정했다. 원문 확인이 필요한 줄에는 `[확인 필요]`를 표시했으며, 작업 전 백업은 `backups/engineer_info_processing-before-ocr-cleanup-20260707-113046.zip`에 보존했다.
-- **Ingest**: 정보처리기사 실기 학습 대시보드 구조를 활용하여 실시간 퀴즈 풀이 및 오답 노트를 누적 기록하는 [정보처리기사 실기 개인 학습 기록](wiki/cs/engineer_info_processing/my_study_log.md)을 신규 생성했다.
+- **Ingest**: 정보처리기사 실기 학습 대시보드 구조를 활용하여 실시간 퀴즈 풀이 및 오답 노트를 누적 기록하는 [정보처리기사 실기 개인 학습 기록 (260707)](wiki/cs/engineer_info_processing/my_study_log_260707.md)을 신규 생성했다.
 - **Update**: [정보처리기사 실기 학습 대시보드](wiki/cs/engineer_info_processing/index.md)에 개인 학습 기록 섹션 및 링크를 업데이트했다.
 - **Decision**: GitHub 지식베이스 백업 시 개인정보 및 로컬 절대 경로 유출 방지를 위해 `raw/` 폴더 등을 제외하는 `.gitignore` 파일을 루트 디렉토리에 신규 생성했다.
 

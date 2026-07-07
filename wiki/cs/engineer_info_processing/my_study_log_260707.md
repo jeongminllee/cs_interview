@@ -1,6 +1,6 @@
 ---
 type: Study Note
-title: "정보처리기사 실기 개인 학습 기록"
+title: "정보처리기사 실기 개인 학습 기록 (260707)"
 description: "AI 에이전트와 함께 푸는 정보처리기사 실기 기출/모의고사 풀이 및 오답 노트"
 tags: [engineer-info-processing, study-log, error-note]
 timestamp: 2026-07-07
