@@ -9,6 +9,7 @@
 - **Ingest**: 정보처리기사 15년 차 강사 페르소나 및 풀이 출력 템플릿 명세를 레퍼런스 문서 [정보처리기사 실기 강사 페르소나 프롬프트](references/instructor-prompt.md)로 보관하였으며, [대시보드 index.md](index.md)의 References 영역에 링크를 추가했다.
 - **Ingest**: 머신러닝 리서처 및 엔지니어 2대 축으로 성장하려는 수험생의 학습 환경 구축을 위해 [ML 엔지니어 프롬프트](references/ml-engineer-prompt.md) 및 [ML 리서처 프롬프트](references/ml-researcher-prompt.md) 레퍼런스 문서를 각각 신규 보관하고 [대시보드 index.md](index.md)에 연계했다.
 - **Ingest**: 요구사항 엔지니어링의 전체 프로세스와 핵심 기법을 일괄 요약 정리한 [요구사항 엔지니어링 종합 가이드](wiki/cs/engineer_info_processing/requirements_engineering_bible.md)를 신규 작성하여 업로드하고 대시보드 index.md에 요점 정리 섹션으로 노출했다.
+- **Ingest**: GitHub 업로드 시 대문 화면 노출을 극대화하기 위해 저장소 구조, 대시보드 바로가기 및 에이전트 소개를 상세히 수록한 [README.md](README.md) 파일을 신규 생성했다.
 
 ## 2026-07-06
 
