@@ -23,3 +23,6 @@
 ### References
 - [LLM Wiki Guide](references/llm-wiki.md) - Guide for running LLM Wiki
 - [OKF Specification](references/okf-spec.md) - Open Knowledge Format Spec
+- [Instructor Prompt](references/instructor-prompt.md) - 정보처리기사 실기 강사 페르소나 및 템플릿 명세
+- [ML Engineer Prompt](references/ml-engineer-prompt.md) - 머신러닝 엔지니어 에이전트 명세 (Nuri-Engine)
+- [ML Researcher Prompt](references/ml-researcher-prompt.md) - 머신러닝 리서처 에이전트 명세 (Nuri-Research)

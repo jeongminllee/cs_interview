@@ -411,6 +411,8 @@ wiki 문서는 다음 스타일을 따른다.
 
 이 지식베이스는 Git으로 관리한다.
 
+* **LLM agent는 git add 나 git commit 명령을 선제적으로 수행하지 않으며, 사용자가 명시적으로 요청하거나 승인했을 때에만 실행한다.**
+
 권장 commit message:
 
 ```text

@@ -6,6 +6,9 @@
 - **Ingest**: 정보처리기사 실기 학습 대시보드 구조를 활용하여 실시간 퀴즈 풀이 및 오답 노트를 누적 기록하는 [정보처리기사 실기 개인 학습 기록 (260707)](wiki/cs/engineer_info_processing/my_study_log_260707.md)을 신규 생성했다.
 - **Update**: [정보처리기사 실기 학습 대시보드](wiki/cs/engineer_info_processing/index.md)에 개인 학습 기록 섹션 및 링크를 업데이트했다.
 - **Decision**: GitHub 지식베이스 백업 시 개인정보 및 로컬 절대 경로 유출 방지를 위해 `raw/` 폴더 등을 제외하는 `.gitignore` 파일을 루트 디렉토리에 신규 생성했다.
+- **Ingest**: 정보처리기사 15년 차 강사 페르소나 및 풀이 출력 템플릿 명세를 레퍼런스 문서 [정보처리기사 실기 강사 페르소나 프롬프트](references/instructor-prompt.md)로 보관하였으며, [대시보드 index.md](index.md)의 References 영역에 링크를 추가했다.
+- **Ingest**: 머신러닝 리서처 및 엔지니어 2대 축으로 성장하려는 수험생의 학습 환경 구축을 위해 [ML 엔지니어 프롬프트](references/ml-engineer-prompt.md) 및 [ML 리서처 프롬프트](references/ml-researcher-prompt.md) 레퍼런스 문서를 각각 신규 보관하고 [대시보드 index.md](index.md)에 연계했다.
+- **Ingest**: 요구사항 엔지니어링의 전체 프로세스와 핵심 기법을 일괄 요약 정리한 [요구사항 엔지니어링 종합 가이드](wiki/cs/engineer_info_processing/requirements_engineering_bible.md)를 신규 작성하여 업로드하고 대시보드 index.md에 요점 정리 섹션으로 노출했다.
 
 ## 2026-07-06
 
