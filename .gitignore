@@ -1,0 +1,18 @@
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor & Tool Settings
+.obsidian/
+.codex_tmp_b200_guard/
+.codex_tmp_order/
+.codex_tmp_model_limit_batch.sh
+
+# Raw Data (Security & Privacy protection)
+# 로컬 절대 경로, 사용자 계정명, API Key 노출 방지를 위해 제외
+raw/
+
+# Temporary and Log files
+*.log
+*.tmp
