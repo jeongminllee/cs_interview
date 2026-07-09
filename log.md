@@ -1,5 +1,17 @@
 # Change Log
 
+## 2026-07-09
+
+- **Ingest**: 2026-07-09일 자 신규 학습 일지인 [my_study_log_260709.md](wiki/cs/engineer_info_processing/my_study_log_260709.md)를 생성하고 45번 IoT 프로토콜 퀴즈 풀이(MQTT, CoAP)를 수록했으며, 대시보드 index.md 및 README.md 대문 링크를 최신화했다.
+- **Ingest**: IoT 2대 통신 규격(MQTT, CoAP)의 심화 구조, QoS 레벨 및 관련 기출 무선 기술을 정리한 [사물인터넷(IoT) 프로토콜 종합 가이드](wiki/cs/engineer_info_processing/iot_protocols_bible.md)를 신규 작성하여 업로드하고 대시보드 index.md에 연계했다.
+- **Ingest**: 다중 접근 제어(MAC) 기법의 핵심 규격인 CSMA/CD, CSMA/CA의 매커니즘, IFS 및 RTS/CTS 프레임 상호작용을 정리한 [다중 접근 제어(MAC) 프로토콜 종합 가이드](wiki/cs/engineer_info_processing/mac_protocols_bible.md)를 신규 생성하고 대시보드 index.md에 요점 정리 링크로 추가했다.
+
+## 2026-07-08
+
+- **Error Note**: Qwen3-Coder-Next 80B full training이 `train/global_step=4500`, `epoch~=0.4327`까지 진행된 뒤 checkpoint 저장 단계에서 `FileNotFoundError: model/adapters`로 중단된 사건을 [LLaMA-Factory Checkpoint Save Failed Because Model Symlink Target Disappeared](wiki/errors/llamafactory-checkpoint-save-broken-model-symlink.md)에 기록했다. 원인은 `model -> /NHNHOME/WORKSPACE/26moel002_A/DAEGU/Model/MalwareAnalysis/` symlink target이 현재 존재하지 않는 상태로 확인되어 checkpoint output root를 만들 수 없었던 것이다.
+- **Study Note**: Qwen3-Coder-Next 80B full training 중 W&B dashboard에 표시되는 `loss`, `eval_loss`, `learning_rate`, `epoch`, `grad_norm`, runtime, system metric을 해석하기 위한 [W&B Training Metrics Guide for MalwareAnalysisLLM](wiki/projects/Fine_Tuned/training/wandb_training_metrics_guide.md)를 추가했다. `logging_steps: 5`, `eval_steps: 250`, global batch size 32 기준으로 train/eval metric을 읽는 방법과 cgroup telemetry를 함께 봐야 하는 경우를 정리했다.
+- **Ingest**: 2026-07-08일 자 신규 학습 일지인 [my_study_log_260708.md](wiki/cs/engineer_info_processing/my_study_log_260708.md)를 생성하고 43번 자바 비트 연산 퀴즈 풀이를 수록했으며, 대시보드 index.md 및 README.md 대문 링크를 최신화했다.
+
 ## 2026-07-07
 
 - **Update**: `wiki/cs/engineer_info_processing/`의 정보처리기사 실기 OCR 추출 Markdown 69개를 대상으로 한글 조각 공백, 반복 OCR 오독, 문장부호를 1차 교정했다. 원문 확인이 필요한 줄에는 `[확인 필요]`를 표시했으며, 작업 전 백업은 `backups/engineer_info_processing-before-ocr-cleanup-20260707-113046.zip`에 보존했다.

@@ -146,6 +146,7 @@ export WANDB_WATCH=false
 
 - [Distributed Training Basics](distributed_training_basics.md)
 - [DeepSpeed ZeRO Basics](deepspeed_zero_basics.md)
+- [W&B Training Metrics Guide for MalwareAnalysisLLM](../training/wandb_training_metrics_guide.md)
 - [B200 Qwen3-Coder 480B Training Gate Guide](../b200/b200_480b_training_gate_guide.md)
 - [B200 Qwen3-Coder 480B SIGKILL Analysis Process](../repos/AegisLM/docs/B200_QWEN3_480B_MEMORY_PROCESS.md)
 
