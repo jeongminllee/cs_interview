@@ -1,5 +1,13 @@
 # Change Log
 
+## 2026-07-11
+
+- **Ingest**: 2026-07-11일 자 신규 학습 일지인 [my_study_log_260711.md](wiki/cs/engineer_info_processing/my_study_log_260711.md)를 생성하고 48번 C언어 후위 표기법(Postfix) 스택 수식 연산 및 아스키 출력(65 -> 'A') 퀴즈 풀이를 수록했으며, 대시보드 index.md 및 README.md 대문 링크를 최신화했다.
+
+## 2026-07-10
+
+- **Ingest**: 2026-07-10일 자 신규 학습 일지인 [my_study_log_260710.md](wiki/cs/engineer_info_processing/my_study_log_260710.md)를 생성하고 47번 C언어 포인터 매개변수 전송 방식(Call by Value/Reference) 복합 연산 퀴즈 풀이를 수록했으며, 대시보드 index.md 및 README.md 대문 링크를 최신화했다.
+
 ## 2026-07-09
 
 - **Ingest**: 2026-07-09일 자 신규 학습 일지인 [my_study_log_260709.md](wiki/cs/engineer_info_processing/my_study_log_260709.md)를 생성하고 45번 IoT 프로토콜 퀴즈 풀이(MQTT, CoAP)를 수록했으며, 대시보드 index.md 및 README.md 대문 링크를 최신화했다.
