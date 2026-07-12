@@ -101,9 +101,12 @@ status: active
 - [요구사항 엔지니어링 종합 가이드](requirements_engineering_bible.md) - 요구사항 도출, 분석, 명세, 확인 프로세스 및 기법 정리
 - [사물인터넷(IoT) 프로토콜 종합 가이드](iot_protocols_bible.md) - MQTT, CoAP 계층 맵핑, QoS 레벨 및 IoT 무선 기술 정리
 - [다중 접근 제어(MAC) 프로토콜 종합 가이드](mac_protocols_bible.md) - CSMA/CD, CSMA/CA 동작 및 유무선 충돌 회피/감지 정리
+- [프로세스 스케줄링 알고리즘 종합 가이드](process_scheduling_bible.md) - 선점/비선점 스케줄링, MLFQ 아키텍처 및 평가 연산 공식 정리
+- [보안 공격 기법 종합 가이드](security_attacks_bible.md) - 패스워드 크래킹, 스푸핑/스니핑, DoS/DDoS(SYN Flooding, Smurfing, Land Attack) 작동 원리 정리
 
 ## 개인 학습 기록
 
+- [정보처리기사 실기 개인 학습 기록 (260712)](my_study_log_260712.md) - 실시간 퀴즈 풀이 및 오답 노트 기록
 - [정보처리기사 실기 개인 학습 기록 (260711)](my_study_log_260711.md) - 실시간 퀴즈 풀이 및 오답 노트 기록
 - [정보처리기사 실기 개인 학습 기록 (260710)](my_study_log_260710.md) - 실시간 퀴즈 풀이 및 오답 노트 기록
 - [정보처리기사 실기 개인 학습 기록 (260709)](my_study_log_260709.md) - 실시간 퀴즈 풀이 및 오답 노트 기록

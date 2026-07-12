@@ -1,5 +1,11 @@
 # Change Log
 
+## 2026-07-12
+
+- **Ingest**: 2026-07-12일 자 신규 학습 일지인 [my_study_log_260712.md](wiki/cs/engineer_info_processing/my_study_log_260712.md)를 생성하고 50번 네트워크 라우팅 프로토콜 알고리즘(거리 벡터 알고리즘) 퀴즈 풀이를 수록했으며, 대시보드 index.md 및 README.md 대문 링크를 최신화했다.
+- **Ingest**: 프로세스 스케줄링의 선점형/비선점형 알고리즘 메커니즘, 평가 지표(대기, 반환, 반응 시간) 계산 공식을 총망라한 [프로세스 스케줄링 알고리즘 종합 가이드](wiki/cs/engineer_info_processing/process_scheduling_bible.md)를 신규 작성하여 대시보드 index.md에 연계했다.
+- **Ingest**: 패스워드 크래킹, 스푸핑/스니핑 기법, DoS/DDoS 5대 해킹 기법의 세부 패킷 조작 메커니즘을 총정리한 [보안 공격 기법 종합 가이드](wiki/cs/engineer_info_processing/security_attacks_bible.md)를 신규 생성하여 대시보드 index.md에 연계했다.
+
 ## 2026-07-11
 
 - **Ingest**: 2026-07-11일 자 신규 학습 일지인 [my_study_log_260711.md](wiki/cs/engineer_info_processing/my_study_log_260711.md)를 생성하고 48번 C언어 후위 표기법(Postfix) 스택 수식 연산 및 아스키 출력(65 -> 'A') 퀴즈 풀이를 수록했으며, 대시보드 index.md 및 README.md 대문 링크를 최신화했다.
