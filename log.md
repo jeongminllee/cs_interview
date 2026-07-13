@@ -1,5 +1,9 @@
 # Change Log
 
+## 2026-07-13
+
+- **Ingest**: 2026-07-13일 자 신규 학습 일지인 [my_study_log_260713.md](wiki/cs/engineer_info_processing/my_study_log_260713.md)를 생성하고 66번 C언어 포인터 매개변수 전송(Call by Value) 및 문자열 출력(%s 널 문자 검색 규칙) 퀴즈 풀이를 수록했으며, 대시보드 index.md 및 README.md 대문 링크를 최신화했다.
+
 ## 2026-07-12
 
 - **Ingest**: 2026-07-12일 자 신규 학습 일지인 [my_study_log_260712.md](wiki/cs/engineer_info_processing/my_study_log_260712.md)를 생성하고 50번 네트워크 라우팅 프로토콜 알고리즘(거리 벡터 알고리즘) 퀴즈 풀이를 수록했으며, 대시보드 index.md 및 README.md 대문 링크를 최신화했다.
