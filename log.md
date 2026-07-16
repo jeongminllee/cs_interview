@@ -1,5 +1,13 @@
 # Change Log
 
+## 2026-07-16
+
+- **Ingest**: 2026-07-16일 자 신규 학습 일지인 [my_study_log_260716.md](wiki/cs/engineer_info_processing/my_study_log_260716.md)를 생성하고 82번 보안 공격 용어(사회공학, 피싱) 퀴즈 풀이와 5대 인적 보안 위협 심화 개념을 정리하여 대시보드 index.md 및 README.md 대문 링크를 최신화했다.
+
+## 2026-07-15
+
+- **Ingest**: 시험 3일 전 벼락치기 최종 핵심 요약집인 [final_cheat_sheet.md](wiki/cs/engineer_info_processing/final_cheat_sheet.md)를 신규 작성하여 대시보드 index.md의 추천 요점 가이드 항목으로 연계했다.
+
 ## 2026-07-13
 
 - **Ingest**: 2026-07-13일 자 신규 학습 일지인 [my_study_log_260713.md](wiki/cs/engineer_info_processing/my_study_log_260713.md)를 생성하고 66번 C언어 포인터 매개변수 전송(Call by Value) 및 문자열 출력(%s 널 문자 검색 규칙) 퀴즈 풀이를 수록했으며, 대시보드 index.md 및 README.md 대문 링크를 최신화했다.

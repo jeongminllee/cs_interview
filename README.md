@@ -9,8 +9,8 @@
 ## 📅 실시간 학습 대시보드 바로가기
 
 * 📑 **[정보처리기사 실기 학습 대시보드](wiki/cs/engineer_info_processing/index.md)**: 기사 실기 전 과목 핵심 요약 및 기출 분석 대시보드
-* 📝 **[오늘 자 학습 일지 (2026-07-13)](wiki/cs/engineer_info_processing/my_study_log_260713.md)**: 실시간 퀴즈 풀이 및 15년 차 강사 에이전트의 밀착 오답 교정 일지 (66번~ 수록)
-* 💡 **[요구사항 엔지니어링 종합 가이드](wiki/cs/engineer_info_processing/requirements_engineering_bible.md)**: 1과목 핵심인 요구사항 도출/분석/명세/확인 기법 요점정리 바이블
+* 🚨 **[실기 3일 완성 벼락치기 최종 핵심 요약집](wiki/cs/engineer_info_processing/final_cheat_sheet.md)**: **[추천]** 시험 3일 전 점수를 수직 상승시키는 문법/메서드, 소프트웨어 공학, 보안 최종 치트시트
+* 📝 **[최근 학습 일지 (2026-07-16)](wiki/cs/engineer_info_processing/my_study_log_260716.md)**: 실시간 퀴즈 풀이 및 15년 차 강사 에이전트의 밀착 오답 교정 일지 (82번~ 수록)
 
 ---
 
